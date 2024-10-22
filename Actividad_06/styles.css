@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+#wrapper {
+    display: flex;
+    overflow-x: hidden;
+}
+
+.sidebar-heading {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.list-group-item {
+    font-size: 1.1rem;
+}
+
+.container {
+    margin-top: 20px;
+}
